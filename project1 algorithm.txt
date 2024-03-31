@@ -1,0 +1,84 @@
+1. Pseudocode and Flowchart for Store Checkout After Purchase:
+Start
+    Display "Welcome to Our Store!"
+    Input item price
+    Input quantity
+    Calculate total price (price * quantity)
+    Display total price
+    Input payment amount
+    Calculate change (payment amount - total price)
+    Display change
+End
+
+Start
+    |
+    V
+[Display "Welcome to Our Store!"]
+    |
+    V
+[Input item price]
+    |
+    V
+[Input quantity]
+    |
+    V
+[Calculate total price (price * quantity)]
+    |
+    V
+[Display total price]
+    |
+    V
+[Input payment amount]
+    |
+    V
+[Calculate change (payment amount - total price)]
+    |
+    V
+[Display change]
+    |
+    V
+End
+
+
+
+
+2. Flowchart for Typical Weekday Morning Routine:
+
+Start
+    |
+    V
+[Get out of bed]
+    |
+    V
+[Brush teeth and wash face]
+    |
+    V
+[Get dressed]
+    |
+    V
+[Eat breakfast]
+    |
+    V
+[Gather school materials]
+    |
+    V
+[Leave for school]
+    |
+    V
+End
+
+
+3. Algorithm to Swap Ages:
+
+1. Start
+2. Input name1 and age1 for the first individual
+3. Input name2 and age2 for the second individual
+4. Print the original ages: "Original Age of name1: age1" and "Original Age of name2: age2"
+5. Swap the ages:
+6. Create a temporary variable temp_age to store age1
+7. Assign age2 to age1
+8. Assign temp_age to age2
+9. Print the swapped ages: "Swapped Age of name1: age2" and "Swapped Age of name2: age1"
+10. End
+
+
